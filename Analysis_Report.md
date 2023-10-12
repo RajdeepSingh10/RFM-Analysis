@@ -30,7 +30,8 @@ There are **4** categories in which the customers are divided
 3. **Lost customers**
 4. **New customers**
 
-
+I'll try to make more changes to make the analysis further more efficient and resolve any flaws present in the project. Any suggestions from you are welcomed !
+Send me your suggestions at my email - **rjdeep1999@gmail.com**
 
 
 
