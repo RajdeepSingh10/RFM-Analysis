@@ -9,3 +9,4 @@ RFM analysis is a way to understand and categorize your customers based on their
 3. **Monetary (M)**: This is about how much money a customer spends. The more they spend, the more valuable they are.
 
 RFM analysis helps you tailor your marketing strategies and customer management to different groups, focusing more on high-value customers to maximize your business's success.
+
