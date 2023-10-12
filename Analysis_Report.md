@@ -22,6 +22,14 @@ RFM analysis helps you tailor your marketing strategies and customer management 
 4. Performing **Data Manipulation**
 5. Perorming **Data Visualization**
 
+# Categories in which the customers are divided :
+
+There are **4** categories in which the customers are divided
+1. **Loyal customers**
+2. **Customers that we can't lose**
+3. **Lost customers**
+4. **New customers**
+
 
 
 
