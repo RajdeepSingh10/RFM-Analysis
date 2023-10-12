@@ -1,3 +1,6 @@
+# About the project :
+"Welcome to my RFM Customer Segmentation Analysis Project! In this endeavor, I aim to categorize and optimize customer relationships based on their recent behavior, frequency, and spending. By doing so, we can tailor the marketing strategies for improved customer engagement and business growth."
+
 # RFM-Analysis
 
 RFM analysis is a way to understand and categorize your customers based on their recent behavior, how often they interact with your business, and how much money they spend. Here's what each part of "RFM" stands for:
