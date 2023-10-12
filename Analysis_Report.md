@@ -1,4 +1,5 @@
 # About the project :
+
 "Welcome to my RFM Customer Segmentation Analysis Project! In this endeavor, I aim to categorize and optimize customer relationships based on their recent behavior, frequency, and spending. By doing so, we can tailor the marketing strategies for improved customer engagement and business growth."
 
 # RFM-Analysis
@@ -12,4 +13,14 @@ RFM analysis is a way to understand and categorize your customers based on their
 3. **Monetary (M)**: This is about how much money a customer spends. The more they spend, the more valuable they are.
 
 RFM analysis helps you tailor your marketing strategies and customer management to different groups, focusing more on high-value customers to maximize your business's success.
+
+# Steps Involved :
+
+**Step1**: Importing the Python Libraries
+**Step2**: Importing the dataset
+**Step3**: Performing **Data Cleaning**
+**Step4**: Performing **Data Manipulation**
+**Step5**: Perorming **Data Visualization**
+
+
 
