@@ -4,7 +4,7 @@
 
 # Aim :
 
-The aim of RFM analysis is to group customers by their recent activity, purchase frequency, and spending to identify high-value segments, allowing businesses to target and customize marketing efforts for maximum profitability and customer satisfaction.
+RFM analysis aims to categorize customers by their activity, frequency, and spending to optimize marketing and service strategies.
 
 # RFM-Analysis
 
