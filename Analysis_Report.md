@@ -16,11 +16,14 @@ RFM analysis helps you tailor your marketing strategies and customer management 
 
 # Steps Involved :
 
-**Step1**: Importing the Python Libraries
-**Step2**: Importing the dataset
-**Step3**: Performing **Data Cleaning**
-**Step4**: Performing **Data Manipulation**
-**Step5**: Perorming **Data Visualization**
+1. Importing the Python Libraries
+2. Importing the dataset
+3. Performing **Data Cleaning**
+4. Performing **Data Manipulation**
+5. Perorming **Data Visualization**
+
+
+
 
 
 
